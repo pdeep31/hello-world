@@ -1,2 +1,2 @@
 Hello Artifactory and Sonar
-Adding webhook config
+Adding webhook config for JenkinsIntegration
